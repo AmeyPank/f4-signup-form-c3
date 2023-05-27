@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+  margin-left: 3rem;
+  /* margin-top: 2rem; */
+  width: 50rem;
+  height: 40px;
+}
+
+.profile-container {
+  margin-top: 5rem;
+  width: 100%;
+
+}
+
+#logout-btn {
+  margin-left: 3rem;
+  margin-top: 1rem;
+  /* width: 50rem; */
+  height: 40px;
+}
